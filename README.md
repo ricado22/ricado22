@@ -1,5 +1,16 @@
 ## Bem-vindo(a) ao perfil Ricardo Souza 😁
 
+</div>
+
+I am passionate about technology and extremely focused on my goals.
+You can go know a little more about me and my projects on my [Website](https://ricardojunior.netlify.app/)
+
+Right now, I'm:
+ - 📚 Studying Information technology management
+ - 🏢 Looking for an opportunity as an internship or a job
+ - 🚧 Developing my own projects
+ - 🎮 Playing The sims
+ 
  <div>
   <a href="https://github.com/ricado22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricado22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
